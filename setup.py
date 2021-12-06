@@ -10,7 +10,7 @@ def read(filename):
 setup(
     name="flask_codeshow",
     version="0.1.0",
-    description="Apredendo flask",
+    description="Aprendendo flask",
     packages=find_packages(exclude='.venv'),
     include_package_data=True,
     install_requires=read('requirements.txt'),
